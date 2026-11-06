@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考风格视频重制"
+  short_description: "按参考视频风格重制原视频，并生成封面与四平台发布文案"
+  default_prompt: "使用 $reference-video-remake，按参考视频的风格重制我的原视频，并制作封面和小红书、B站、抖音、微信视频号的标题与文案。"
